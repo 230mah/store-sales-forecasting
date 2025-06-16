@@ -1,0 +1,50 @@
+# .gitignore
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.so
+
+# Arquivos Jupyter temporários
+.ipynb_checkpoints
+
+# Dados sensíveis ou pesados
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.db
+*.pkl
+*.parquet
+*.zip
+*.tar.gz
+
+# Modelos treinados
+*.joblib
+*.h5
+*.pt
+*.pkl
+
+# Arquivos de log e cache
+*.log
+*.cache
+*.bak
+
+# Configurações locais
+.env
+*.env
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
