@@ -1,3 +1,12 @@
 version https://git-lfs.github.com/spec/v1
 oid sha256:81a183d6c4d691b57f84a0fde6bbf734a5b3c36a74b97378bf33a592648e2999
 size 22309
+date,type,locale,locale_name,description,transferred
+2024-01-01,Holiday,National,Brazil,New Year's Day,False
+2024-04-21,Holiday,National,Brazil,Tiradentes Day,False
+2024-05-01,Holiday,National,Brazil,Labour Day,False
+2024-09-07,Holiday,National,Brazil,Independence Day,False
+2024-10-12,Holiday,National,Brazil,Nossa Senhora Aparecida,False
+2024-11-02,Holiday,National,Brazil,All Souls' Day,False
+2024-11-15,Holiday,National,Brazil,Republic Day,False
+2024-12-25,Holiday,National,Brazil,Christmas Day,False
