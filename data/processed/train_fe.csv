@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e3ce24990fe26bfe01ebff79da4c1c33334432926368cd72095a5fc7280b20f
-size 370760378
+store_nbr,date,family,sales,onpromotion,holiday,national_holiday
+1,2013-01-01,GROCERY I,5583,0,0,0
+2,2013-01-01,GROCERY I,6435,1,0,1
+3,2013-01-01,BEVERAGES,2343,0,0,0
