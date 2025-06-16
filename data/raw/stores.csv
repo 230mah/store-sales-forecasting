@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af503b2bce11d7906d249f81cc0598f10e2addcc9f6c59aa2d95c9f2652c296b
-size 1387
+store_nbr,city,state,type,cluster
+1,Quito,Pichincha,D,13
+2,Quito,Pichincha,D,13
+3,Guayaquil,Guayas,C,8
+4,Cuenca,Azuay,B,9
+5,Ambato,Tungurahua,A,3
