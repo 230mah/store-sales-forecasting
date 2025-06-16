@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81a183d6c4d691b57f84a0fde6bbf734a5b3c36a74b97378bf33a592648e2999
-size 22309
+date,type,locale,locale_name,description,transferred
+2012-03-02,Holiday,National,Ecuador,Carnaval,False
+2012-04-06,Holiday,National,Ecuador,Good Friday,False
+2012-12-25,Holiday,National,Ecuador,Christmas Day,False
